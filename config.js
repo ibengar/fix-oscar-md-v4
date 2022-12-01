@@ -78,7 +78,7 @@ global.lynk = 'https://chat.whatsapp.com/J1Zig8VE7klDHUb35YVj9L'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = '-'
+global.sig = 'https://instagram.com'
 global.sgh = 'https://github.com/ibengar' //github
 global.sgc = 'https://chat.whatsapp.com/J1Zig8VE7klDHUb35YVj9L' //group whatsapp
 global.sdc = '-' //discord
