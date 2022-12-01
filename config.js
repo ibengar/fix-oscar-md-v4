@@ -265,11 +265,11 @@ global.drtf = 'text/rtf'
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 global.thumb = 'https://telegra.ph/file/3d6b5d9f6d82b350ff966.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/cbfa09b8a2cfd054aa50c.jpg'
+global.imagebot = 'https://telegra.ph/file/3d6b5d9f6d82b350ff966.jpg'
 global.giflogo = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.mp4'
-global.thumbs = ['https://telegra.ph/file/cbfa09b8a2cfd054aa50c.jpg']
+global.thumbs = ['https://telegra.ph/file/3d6b5d9f6d82b350ff966.jpg']
 global.thumbnailUrl = [
-  'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
+  'https://telegra.ph/file/3d6b5d9f6d82b350ff966.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
   'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg', 'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
